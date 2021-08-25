@@ -1,0 +1,24 @@
+{
+  "name": "listBook",
+  "version": "1.0.0",
+  "description": "Programa em JS que mostra uma lista de livros e informações sobre eles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peggau/listBook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peggau/listBook/issues"
+  },
+  "homepage": "https://github.com/peggau/listBook#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
