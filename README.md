@@ -1,2 +1,2 @@
 # listBook
-Programa em JS que mostra uma lista de livros e informações sobre eles.
+Programa em JS que permite escolher um livro pelo gênero ou olhar todos os que estão disponíveis.
